@@ -1,5 +1,7 @@
-/* virtualLEDSwitch.cpp by Joshua Ryan
-* adapted from subscribe.cpp in ~/exploringBB/chp11/adafruit
+/* virtualLEDSwitch.cpp
+* by Joshua Ryan
+* HW 11 problem 2
+* Adapted from subscribe.cpp in ~/exploringBB/chp11/adafruit
 * To call this program use: virtualLEDSwitch
 * This program takes no arguments and will output the state of a switch on
 *   https://io.adafruit.com/JoshuaRyan99/dashboards/beaglebone-led-switch

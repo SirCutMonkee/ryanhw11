@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Configuring GPIO pins"
+config-pin p9.12 gpio
+
+echo "Starting build for virtualLEDSwitch.cpp"
+g++ virtualLEDSwitch.cpp -lpaho-mqtt3c -o virtualLEDSwitch
+echo "Finishing build for virtualLEDSwitch.cpp"
